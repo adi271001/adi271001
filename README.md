@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @adi271001
+- 👋 Hi, I’m Aditya D
 - 👀 I’m interested in machine learning and cyber security
 - 🌱 I’m currently learning Generative Adversial Networks and pursuing BE in Information Science Engineering in RNSIT
 - 💞️ I’m looking to collaborate on Projects RELATED TO AIML , Cyber Security
-- 📫 How to reach me ibetanibex@gmail.com
+- 📫 How to reach me ibetanibex@gmail.com 1rn19is011.adityad@gmail.com
 
 <!---
 adi271001/adi271001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
